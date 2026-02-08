@@ -27,9 +27,9 @@ Currently focused on **Web Development + DSA** and open to collaboration on exci
   <a href="https://leetcode.com/u/ujjwalbaghel800/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
   </a>
-  <a href="https://www.instagram.com/baghel__992/" target="_blank">
+  <!-- <a href="https://www.instagram.com/baghel__992/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-  </a>
+  </a> -->
 </p>
 
 ---
