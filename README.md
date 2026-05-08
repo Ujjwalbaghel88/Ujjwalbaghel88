@@ -33,10 +33,10 @@ Focused on turning ideas into working products using modern web technologies.
 ---
 
 ## 📊 GitHub Performance
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ujjwalbaghel88&theme=tokyonight" width="48%" />
-</p> -->
+</p> 
 
 ---
 
