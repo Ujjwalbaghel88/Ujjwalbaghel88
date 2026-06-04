@@ -52,20 +52,53 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 ## 🚀 Featured Projects
 
-### 🍔 Cravings
-Food Ordering Website using HTML, CSS & JavaScript
+### 🍔 Cravings – Food Ordering Website
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/Cravings)
+A modern and responsive food ordering website built using HTML, CSS, and JavaScript.
+
+✨ Features:
+- Responsive Design
+- Interactive Food Menu
+- Smooth User Experience
+- Modern UI/UX
+
+🌐 **Live Demo:**  
+https://ujjwalbaghel88.github.io/Cravings/
+
+💻 **Source Code:**  
+https://github.com/Ujjwalbaghel88/Cravings
+
+---
 
 ### 🔐 Password Manager
-Password Manager with Local Storage
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/password-manager)
+A secure password manager that stores user credentials using Local Storage.
+
+✨ Features:
+- Add Passwords
+- Edit Passwords
+- Delete Passwords
+- Local Storage Integration
+
+💻 **Source Code:**  
+https://github.com/Ujjwalbaghel88/password-manager
+
+---
 
 ### 💱 Currency Converter
-Real-Time Currency Converter using API
 
-[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/currency-converter)
+A real-time currency converter built using JavaScript and Exchange Rate API.
+
+✨ Features:
+- Real-Time Currency Conversion
+- Country Flags
+- Error Handling
+- API Integration
+
+💻 **Source Code:**  
+https://github.com/Ujjwalbaghel88/currency-converter
+
+---
 
 ## 📚 Coding Profiles
 
