@@ -34,29 +34,11 @@ Focused on turning ideas into working products using modern web technologies.
 </p>
 
 ---
-
-## 📊 GitHub Performance
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
-</p>
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalbaghel88&layout=compact&theme=tokyonight&hide_border=true"
-    height="180em"
-  />
+  <img src="https://streak-stats.demolab.com?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🧩 Coding Profiles
 
