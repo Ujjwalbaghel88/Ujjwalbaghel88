@@ -42,8 +42,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Ujjwalbaghel88&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
----
-
 ## 📚 Coding Profiles
 
 <p align="left">
