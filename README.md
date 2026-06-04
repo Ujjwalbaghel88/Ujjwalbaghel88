@@ -50,26 +50,22 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
   <img src="https://streak-stats.demolab.com?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
 ## 🚀 Featured Projects
 
-### 🍔 Cravings - Food Ordering Website
-- Responsive food ordering website
-- Modern UI/UX design
-- Built using HTML, CSS & JavaScript
+### 🍔 Cravings
+Food Ordering Website using HTML, CSS & JavaScript
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/Cravings)
 
 ### 🔐 Password Manager
-- Store passwords securely using Local Storage
-- Add, Edit & Delete functionality
-- Built with JavaScript DOM Manipulation
+Password Manager with Local Storage
+
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/password-manager)
 
 ### 💱 Currency Converter
-- Real-time currency conversion
-- Country flag integration
-- API based project
+Real-Time Currency Converter using API
 
----
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Ujjwalbaghel88/currency-converter)
 
 ## 📚 Coding Profiles
 
@@ -109,3 +105,7 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 <p align="center">
 ⭐ If you like my work, feel free to star my repositories!
 </p>
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
