@@ -83,16 +83,15 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 </p>
 
 ---
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://github.com/Ujjwalbaghel88">
-    <img
-      src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true&border_radius=12&mode=daily"
-      alt="Ujjwal Baghel GitHub Streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true&border_radius=12"
+    alt="Ujjwal Baghel GitHub Streak"
+  />
 </p>
 
 ---
@@ -101,10 +100,13 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalbaghel88&theme=github-compact&hide_border=true&area=true"
-    alt="Ujjwal Baghel GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ujjwalbaghel88&theme=github_dark"
+    alt="Ujjwal Baghel GitHub Activity"
+    width="100%"
   />
 </p>
+
+---
 
 ---
 
