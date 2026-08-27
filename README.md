@@ -44,12 +44,23 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 ---
 
-## 🔥 GitHub Streak
+---
+
+## 🔥 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=github-dark-blue&hide_border=true&border_radius=12&mode=daily"
+    alt="GitHub Streak"
+  />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Ujjwalbaghel88&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
 ## 🚀 Featured Projects
 
 ### 🍔 Cravings – Food Ordering Website
