@@ -12,7 +12,7 @@
 
 ---
 
-## 🚀 ABOUT ME
+## ABOUT ME
 
 I'm a passionate Full Stack Developer focused on building scalable web applications and solving real-world problems through code.
 
@@ -24,17 +24,17 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 ---
 
-## 🎯 CURRENT FOCUS
+## CURRENT FOCUS
 
-- 🚀 **MERN Stack Development**  
-- 📚 **Data Structures & Algorithms**  
-- ⚡ **Backend Development** (Node.js, Express)  
-- 🌐 **REST APIs & Database Design**  
-- 💼 **Building Portfolio Projects**  
+- 🚀 MERN Stack Development  
+- 📚 Data Structures & Algorithms  
+- ⚡ Backend Development  
+- 🌐 REST APIs & Database Design  
+- 💼 Building Portfolio Projects  
 
 ---
 
-## 🛠️ TECH STACK
+## TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode" />
@@ -42,7 +42,7 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 ---
 
-## 📊 GITHUB STATS & STREAK (Ab kabhi fail nahi hogi)
+## GITHUB STATS & STREAK
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -55,12 +55,12 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 
 ---
 
-## 🚀 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 ### 🍔 Cravings – Food Ordering Website
 A modern and responsive food ordering website built using HTML, CSS, and JavaScript.
 
-✨ **Features:** Responsive Design • Interactive Food Menu • Modern UI/UX • Smooth User Experience  
+✨ Features: Responsive Design • Interactive Food Menu • Modern UI/UX • Smooth User Experience  
 
 🌐 **Live Demo:** [https://ujjwalbaghel88.github.io/Cravings/](https://ujjwalbaghel88.github.io/Cravings/)  
 💻 **Source Code:** [https://github.com/Ujjwalbaghel88/Cravings](https://github.com/Ujjwalbaghel88/Cravings)
@@ -70,7 +70,7 @@ A modern and responsive food ordering website built using HTML, CSS, and JavaScr
 ### 🔐 Password Manager
 A secure password manager that stores user credentials using Local Storage.
 
-✨ **Features:** Add Passwords • Edit Passwords • Delete Passwords • Local Storage Integration  
+✨ Features: Add Passwords • Edit Passwords • Delete Passwords • Local Storage Integration  
 
 💻 **Source Code:** [https://github.com/Ujjwalbaghel88/password-manager](https://github.com/Ujjwalbaghel88/password-manager)
 
@@ -79,13 +79,13 @@ A secure password manager that stores user credentials using Local Storage.
 ### 💱 Currency Converter
 A real-time currency converter built using JavaScript and Exchange Rate API.
 
-✨ **Features:** Real-Time Conversion • Country Flags • Error Handling • API Integration  
+✨ Features: Real-Time Conversion • Country Flags • Error Handling • API Integration  
 
 💻 **Source Code:** [https://github.com/Ujjwalbaghel88/currency-converter](https://github.com/Ujjwalbaghel88/currency-converter)
 
 ---
 
-## 📚 CODING PROFILES
+## CODING PROFILES
 
 <p align="center">
   <a href="https://leetcode.com/u/ujjwalbaghel800/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
@@ -96,7 +96,7 @@ A real-time currency converter built using JavaScript and Exchange Rate API.
 
 ---
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <p align="center">
   <a href="https://github.com/Ujjwalbaghel88"><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -105,13 +105,13 @@ A real-time currency converter built using JavaScript and Exchange Rate API.
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## CONTRIBUTION SNAKE
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-> **✨ "Consistency beats motivation. Code every day. Improve every day."** ✨
+> **"Consistency beats motivation. Code every day. Improve every day."**
 
 ---
 
