@@ -45,7 +45,8 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 ## GITHUB STATS & STREAK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs&custom_title=Ujjwal%20Baghel's%20GitHub%20Stats" width="48%" />
+  
   <img src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
@@ -53,43 +54,59 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalbaghel88&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
+---
+
 ## FEATURED PROJECTS
 
 ### 🍔 Cravings – Food Ordering Website
+
 A modern and responsive food ordering website built using HTML, CSS, and JavaScript.
 
 ✨ Features: Responsive Design • Interactive Food Menu • Modern UI/UX • Smooth User Experience  
 
 🌐 **Live Demo:** [https://ujjwalbaghel88.github.io/Cravings/](https://ujjwalbaghel88.github.io/Cravings/)  
-💻 **Source Code:** [https://github.com/Ujjwalbaghel88/Cravings](https://github.com/Ujjwalbaghel88/Cravings)
+💻 **Source Code:** https://github.com/Ujjwalbaghel88/Cravings
 
 ---
 
 ### 🔐 Password Manager
+
 A secure password manager that stores user credentials using Local Storage.
 
 ✨ Features: Add Passwords • Edit Passwords • Delete Passwords • Local Storage Integration  
 
-💻 **Source Code:** [https://github.com/Ujjwalbaghel88/password-manager](https://github.com/Ujjwalbaghel88/password-manager)
+💻 **Source Code:** https://github.com/Ujjwalbaghel88/password-manager
 
 ---
 
 ### 💱 Currency Converter
+
 A real-time currency converter built using JavaScript and Exchange Rate API.
 
 ✨ Features: Real-Time Conversion • Country Flags • Error Handling • API Integration  
 
-💻 **Source Code:** [https://github.com/Ujjwalbaghel88/currency-converter](https://github.com/Ujjwalbaghel88/currency-converter)
+💻 **Source Code:** https://github.com/Ujjwalbaghel88/currency-converter
 
 ---
 
 ## CODING PROFILES
 
 <p align="center">
-  <a href="https://leetcode.com/u/ujjwalbaghel800/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" /></a>
-  <a href="https://www.codechef.com/users/ujjwalbaghel"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/ujjwalbaghel"><img src="https://img.shields.io/badge/Codeforces-445f9e?style=for-the-badge&logo=Codeforces&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/profile/ujjwalbaghel800"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ujjwalbaghel800/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+  </a>
+
+  <a href="https://www.codechef.com/users/ujjwalbaghel">
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/ujjwalbaghel">
+    <img src="https://img.shields.io/badge/Codeforces-445f9e?style=for-the-badge&logo=Codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/ujjwalbaghel800">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -97,8 +114,13 @@ A real-time currency converter built using JavaScript and Exchange Rate API.
 ## CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/Ujjwalbaghel88"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="https://linkedin.com/in/ujjwalbaghel88"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://github.com/Ujjwalbaghel88">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://linkedin.com/in/ujjwalbaghel88">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
