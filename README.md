@@ -45,15 +45,14 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 ## GITHUB STATS & STREAK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,prs&custom_title=Ujjwal%20Baghel's%20GitHub%20Stats" width="48%" />
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
   <img src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalbaghel88&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
-
 ---
 
 ## FEATURED PROJECTS
