@@ -40,12 +40,10 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,git,github,vscode" />
 </p>
 
----
-
 ## GITHUB STATS & STREAK
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ujjwalbaghel88&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
 
   <img src="https://streak-stats.demolab.com/?user=Ujjwalbaghel88&theme=tokyonight&hide_border=true" width="48%" />
 </p>
@@ -53,6 +51,7 @@ I'm a passionate Full Stack Developer focused on building scalable web applicati
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwalbaghel88&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+
 ---
 
 ## FEATURED PROJECTS
